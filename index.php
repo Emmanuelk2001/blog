@@ -14,11 +14,11 @@
             <nav>
                 <h1><span>My</span><span>.</span>blog</h1>
                 <div class ="right">
-                     <a href="#"><p>blog</p></a>
-                     <a href="#"><p>contacts</p></a>
-                     <a href="#"><p>about us</p></a>
-                     <a href="https://www.16personalities.com/free-personality-test"><button> sign in </button></a>
-                        <a href="https://www.16personalities.com/free-personality-test"><button> sign up</button></a>
+                     <a href="#"><p>Blogs</p></a>
+                     <a href="#"><p>Contacts</p></a>
+                     <a href="#"><p>About us</p></a>
+                     <a href="Connexion-Inscription/index.html"><button> Sign in </button></a>
+                        <a href="Connexion-Inscription/index2.html"><button> Sign up</button></a>
                     
                 </div>
                     
@@ -34,9 +34,7 @@
         </header>
         <footer >
                 <div class="container">
-                    <h3>Contactez moi</h3>
-                    <p>keelfsfejfe,ffedf,mf,e,fm,rr,ef,kefkdf,dmf,, djejjnf jdefnknc kndfe<br/>
-                        dfnjekknfndnfehhenf hjffhr hfnzrvkehrf jzfhekfnlkfen fnkffzls
+                    <h3>Contactez-moi</h3>
                     </p>
                     <ul class="socials">
                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
